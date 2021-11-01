@@ -41,7 +41,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "t2"
+name = "test-macros-ra"
 version = "0.1.0"
 dependencies = [
  "macros",
